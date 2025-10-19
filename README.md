@@ -1,5 +1,6 @@
-Hi! <br>
-Currently enrolled as a student as HS Koblenz.
+##Hi!
+
+Currently enrolled at HS Koblenz as a Software Engineering student <br/>
 
 
 # 💻 Tech Stack:
