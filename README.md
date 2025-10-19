@@ -27,10 +27,10 @@ Some of my projects:
 
 ---
 
-## 📫 Kontakt
+## 📫 Find me!
 
 - GitHub: [@wantoatmilk](https://github.com/wantoatmilk)  
-- LinkedIn: [*Linkedin*](https://www.linkedin.com/in/jacqueline-koehnlein/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/jacqueline-koehnlein/)
 
 ---
 
