@@ -30,7 +30,7 @@ Some of my projects:
 ## 📫 Find me!
 
 - GitHub: [@wantoatmilk](https://github.com/wantoatmilk)  
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/jacqueline-koehnlein/)
+- [LinkedIn](https://www.linkedin.com/in/jacqueline-koehnlein/)
 
 ---
 
