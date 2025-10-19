@@ -35,5 +35,3 @@ Some of my projects:
 - [@wantoatmilk](https://github.com/wantoatmilk)  
 - [LinkedIn](https://www.linkedin.com/in/jacqueline-koehnlein/)
 
----
-
