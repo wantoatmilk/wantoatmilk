@@ -27,7 +27,7 @@ Some of my projects:
 
 ## 📫 Find me!
 
-- GitHub: [@wantoatmilk](https://github.com/wantoatmilk)  
+- [@wantoatmilk](https://github.com/wantoatmilk)  
 - [LinkedIn](https://www.linkedin.com/in/jacqueline-koehnlein/)
 
 ---
