@@ -23,7 +23,7 @@ Some of my projects:
 | Project | Description | Link |
 |---------|-------------|------|
 | Grass Shader Animation | Grass shader app in OpenGL, with wind animation | [Repo](https://github.com/wantoatmilk/grass-shader) |
-| Todo App | Webapp with React, node | [Repo](https://github.com/wantoatmilk/webtech) |
+| Todo App | Webapp with Express.js, Node.js, React.js, MongoDB, as well as React Native | [Repo](https://github.com/wantoatmilk/webtech) |
 
 ---
 
