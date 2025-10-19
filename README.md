@@ -1,4 +1,4 @@
-##Hi!
+## Hi, im Jacqueline ᵕ̈
 
 Currently enrolled at HS Koblenz as a Software Engineering student <br/>
 
