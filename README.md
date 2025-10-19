@@ -1,6 +1,5 @@
 ## Hi, im Jacqueline ◡̈
-
----
+<br/>
 
 ## 🌱 About me
 
