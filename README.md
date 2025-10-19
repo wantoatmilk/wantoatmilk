@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 
-- currently enrolled as a student at HS Koblenz as software engineer
+- currently enrolled at HS Koblenz as software engineering student
 - graphic designer, working mostly with Adobe and Figma  
 
 ---
